@@ -1,6 +1,6 @@
 # LCD-Button-Shield-Menu-for-dfRobot-4xRelay-shield
 
-This Arduino code had been written for the sole purpose of watering a wall plant throughout the day with a given set time frame.
+This Arduino code has been written for the sole purpose of watering a wall plant throughout the day with a given set time frame.
 
 The code has four menus: Period, ON-time, Start, and Toggle, where:
 1. The Period menu item implements the user to set a time period in seconds by adding or subtracting numbers within five digits.
